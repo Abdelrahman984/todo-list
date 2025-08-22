@@ -5,6 +5,11 @@ Users can add tasks, mark them as completed, and delete tasks. The app automatic
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Open Todo List App](https://abdelrahman984.github.io/todo-list/)
+
+ ---
 ## 🚀 Features
 
 * ➕ Add new tasks
